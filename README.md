@@ -33,7 +33,8 @@ GravAD innovatively detects gravitational waves using Automatic Differentiation,
 <p>StellarPhysicsHub, a Flask and SQLAlchemy-powered web app, provides detailed, interactive information on constellations and celestial bodies for astronomy enthusiasts and researchers.</p>
 <!-- Badges -->
 
-<br>
+<br><br>
+
 
 ![GitHub stars](https://img.shields.io/github/stars/WDoyle123/StellarPhysicsHub?style=social&label=Star) ![GitHub forks](https://img.shields.io/github/forks/WDoyle123/StellarPhysicsHub?style=social) ![GitHub issues](https://img.shields.io/github/issues/WDoyle123/StellarPhysicsHub)
 </td>
@@ -43,6 +44,9 @@ GravAD innovatively detects gravitational waves using Automatic Differentiation,
 <h2><a href="https://github.com/WDoyle123/PS1Palette">PS1Palette</a></h2>
 <p>PS1Palette is a Bash script designed to simplify the process of customising the command prompt (PS1) in Bash. It allows users to easily change the colour of their terminal prompt without needing to understand the complex syntax of PS1 colour codes.</p>
 <!-- Badges -->
+
+<br>
+
 
 ![GitHub stars](https://img.shields.io/github/stars/WDoyle123/PS1Palette?style=social&label=Star) ![GitHub forks](https://img.shields.io/github/forks/WDoyle123/PS1Palette?style=social) ![GitHub issues](https://img.shields.io/github/issues/WDoyle123/PS1Palette)
 </td>
@@ -54,6 +58,9 @@ GravAD innovatively detects gravitational waves using Automatic Differentiation,
 <h2><a href="https://github.com/WDoyle123/AstroClassifierML">AstroClassifierML</a></h2>
 <p>AstroClassifierML is a machine learning project aimed at classifying space objects. It uses data from Sloan Digital Sky Survey, applying advanced machine learning techniques to classify Galaxies, Stars, and Quasars.</p>
 <!-- Badges -->
+<br>
+
+
 
 ![GitHub stars](https://img.shields.io/github/stars/WDoyle123/AstroClassifierML?style=social&label=Star) ![GitHub forks](https://img.shields.io/github/forks/WDoyle123/AstroClassifierML?style=social) ![GitHub issues](https://img.shields.io/github/issues/WDoyle123/AstroClassifierML)
 
@@ -105,6 +112,9 @@ GravAD innovatively detects gravitational waves using Automatic Differentiation,
 <h2><a href="https://github.com/WDoyle123/solarSystem">solarSystem</a></h2>
 <p>SolarSystem is a web-based JavaScript simulation with p5.js, modeling a solar system with sun, planets, and moons, visually demonstrating Newtonian gravitational interactions and orbital mechanics.</p>
 <!-- Badges -->
+
+<br>
+
 
 ![GitHub stars](https://img.shields.io/github/stars/WDoyle123/solarSystem?style=social&label=Star) ![GitHub forks](https://img.shields.io/github/forks/WDoyle123/solarSystem?style=social) ![GitHub issues](https://img.shields.io/github/issues/WDoyle123/solarSystem)
 </td>
