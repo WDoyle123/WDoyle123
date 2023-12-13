@@ -30,7 +30,7 @@ GravAD innovatively detects gravitational waves using Automatic Differentiation,
 <!-- Second Column -->
 <td valign="top" width="33%">
 <h2><a href="https://github.com/WDoyle123/StellarPhysicsHub">StellarPhysicsHub</a></h2>
-<p>StellarPhysicsHub, a Flask and SQLAlchemy-powered web app, provides detailed, interactive information on constellations and celestial bodies for astronomy enthusiasts and researchers. It leverages the power of StarScholar3D!</p>
+<p>StellarPhysicsHub, a Flask and SQLAlchemy-powered web app, provides detailed, interactive information on constellations and celestial bodies for astronomy enthusiasts and researchers to explore like never before. It leverages the power of StarScholar3D!</p>
 <!-- Badges -->
 
 ![GitHub stars](https://img.shields.io/github/stars/WDoyle123/StellarPhysicsHub?style=social&label=Star) ![GitHub forks](https://img.shields.io/github/forks/WDoyle123/StellarPhysicsHub?style=social) ![GitHub issues](https://img.shields.io/github/issues/WDoyle123/StellarPhysicsHub)
