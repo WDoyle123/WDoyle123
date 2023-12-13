@@ -12,7 +12,16 @@ On GitHub, I showcase my proficiency in Python programming, which has been integ
 <p>
 My passion for technology extends to exploring various Linux distributions, including Arch, Void, and Ubuntu. This interest has led me to tinker with both software and hardware, optimising performance and customising user experiences. Through these experiences, I have grown a deep appreciation for the open-source community and its collaborative spirit. My GitHub repositories also mirror this ethos, as I maintain my repositories to be open-source.
 </p>
+
+<br>
+
 <div id="header" align="center">
+
+![WDoyle123 GitHub stats](https://github-readme-stats.vercel.app/api?username=WDoyle123&show_icons=true&theme=ambient_gradient)
+
+<div id="header" align="center">
+
+<br>
 
 # My Projects
 
