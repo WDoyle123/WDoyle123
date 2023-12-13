@@ -33,6 +33,7 @@ GravAD innovatively detects gravitational waves using Automatic Differentiation,
 <p>StellarPhysicsHub, a Flask and SQLAlchemy-powered web app, provides detailed, interactive information on constellations and celestial bodies for astronomy enthusiasts and researchers.</p>
 <!-- Badges -->
 
+<br>
 
 ![GitHub stars](https://img.shields.io/github/stars/WDoyle123/StellarPhysicsHub?style=social&label=Star) ![GitHub forks](https://img.shields.io/github/forks/WDoyle123/StellarPhysicsHub?style=social) ![GitHub issues](https://img.shields.io/github/issues/WDoyle123/StellarPhysicsHub)
 </td>
@@ -92,8 +93,9 @@ GravAD innovatively detects gravitational waves using Automatic Differentiation,
 <!-- Third Column of Third Row -->
 <td valign="top" width="33%">
 <h2><a href="https://github.com/WDoyle123/portfolioWebsite">portfolioWebsite</a></h2>
-<p>This site showcases my journey as a Physicist, Programmer, and Entrepreneur. It includes information about my academic background, achievements, projects, publications, and certifications.</p>
+<p>This site showcases my journey as a Physicist, Programmer, and Entrepreneur. It includes information about my academic background, achievements, projects, publications, and certifications. Frequent updates with this repo for the more I learn!</p>
 <!-- Badges -->
+
 
 ![GitHub stars](https://img.shields.io/github/stars/WDoyle123/portfolioWebsite?style=social&label=Star) ![GitHub forks](https://img.shields.io/github/forks/WDoyle123/portfolioWebsite?style=social) ![GitHub issues](https://img.shields.io/github/issues/WDoyle123/portfolioWebsite)
 </td>
@@ -101,7 +103,7 @@ GravAD innovatively detects gravitational waves using Automatic Differentiation,
 <!-- First Column of Fourth Row -->
 <td valign="top" width="33%">
 <h2><a href="https://github.com/WDoyle123/solarSystem">solarSystem</a></h2>
-<p>SolarSystem is a web-based JavaScript simulation with p5.js, modeling a solar system with sun, planets, and moons, visually demonstrating Newtonian gravitational interactions and orbital mechanics..</p>
+<p>SolarSystem is a web-based JavaScript simulation with p5.js, modeling a solar system with sun, planets, and moons, visually demonstrating Newtonian gravitational interactions and orbital mechanics.</p>
 <!-- Badges -->
 
 ![GitHub stars](https://img.shields.io/github/stars/WDoyle123/solarSystem?style=social&label=Star) ![GitHub forks](https://img.shields.io/github/forks/WDoyle123/solarSystem?style=social) ![GitHub issues](https://img.shields.io/github/issues/WDoyle123/solarSystem)
