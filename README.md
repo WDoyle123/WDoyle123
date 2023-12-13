@@ -2,12 +2,16 @@
 
 # About Me
 <div id="header" align="justify">
+
+<p>
 I am an aspiring physicist with a Master's in Physics (MPhys) from the University of Portsmouth, where I developed a strong foundation in theoretical and applied physics. My academic journey has been marked by numerous projects where I utilised my analytical and problem-solving skills, often employing computational methods.
-
+</p>
+<p>
 On GitHub, I showcase my proficiency in Python programming, which has been integral to my data analysis, simulation development, and problem-solving in physics. My repositories reflect my dedication to applying programming in scientific contexts, demonstrating both my technical skills and my enthusiasm for computational physics.
-
+</p>
+<p>
 My passion for technology extends to exploring various Linux distributions, including Arch, Void, and Ubuntu. This interest has led me to tinker with both software and hardware, optimising performance and customising user experiences. Through these experiences, I have grown a deep appreciation for the open-source community and its collaborative spirit. My GitHub repositories also mirror this ethos, as I maintain my repositories to be open-source.
-
+</p>
 <div id="header" align="center">
 
 # My Projects
