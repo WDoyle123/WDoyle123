@@ -1,8 +1,41 @@
-<div id="header" align="center">
+<div align="center">
 
-# About Me
-<div id="header" align="justify">
+## Hi, I'm William E. Doyle
+### Python Progammer & Aspiring Physicist
 
+<a href="https://github.com/WDoyle123">
+    <img src="https://github-stats-alpha.vercel.app/api?username=WDoyle123&cc=22272e&tc=0181FF&ic=fff&bc=0181FF">
+</a>
+
+<div align='center'>
+
+<a href="https://www.williamdoyle.co.uk">
+    <img src="https://img.shields.io/badge/Website-www.williamdoyle.co.uk-0181FF?style=flat">
+</a>  
+
+<a href="https://fuchsia-brandea-15.tiiny.site/">
+    <img src="https://img.shields.io/badge/PDF-CV-0181FF?">
+</a>  
+
+<a href="https://www.linkedin.com/in/william-doyle-489750239/">
+    <img src="https://img.shields.io/badge/-Linkedin-0181FF?style=flat-square&logo=linkedin">
+</a>
+
+<a href='https://www.researchgate.net/profile/William-Doyle-10' target="_blank">
+    <img alt='researchgate' src='https://img.shields.io/badge/ResearchGate-100000?style=flat&logo=ResearchGate&logoColor=white&&color=0181FF'>
+</a>
+
+<a href="mailto:william.e.doyle.contact@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-0181FF?style=flat&logo=gmail&logoColor=white">
+</a>
+
+</div>
+</div>
+
+<div align="center">
+
+<details>
+<summary><b>About Me</b></summary>
 <p>
 I am an aspiring physicist with a Master's in Physics (MPhys) from the University of Portsmouth, where I developed a strong foundation in theoretical and applied physics. My academic journey has been marked by numerous projects where I utilised my analytical and problem-solving skills, often employing computational methods.
 </p>
@@ -12,128 +45,20 @@ On GitHub, I showcase my proficiency in Python programming, which has been integ
 <p>
 My passion for technology extends to exploring various Linux distributions, including Arch, Void, and Ubuntu. This interest has led me to tinker with both software and hardware, optimising performance and customising user experiences. Through these experiences, I have grown a deep appreciation for the open-source community and its collaborative spirit. My GitHub repositories also mirror this ethos, as I maintain my repositories to be open-source.
 </p>
-
-<br>
-
-<div id="header" align="center">
-
-![WDoyle123 GitHub stats](https://github-readme-stats.vercel.app/api?username=WDoyle123&show_icons=true&theme=ambient_gradient)
-
-<div id="header" align="center">
-
-<br>
-
-# My Projects
-
-<table>
-<tr>
-<!-- First Column -->
-<td valign="top" width="33%">
-<h2><a href="https://github.com/WDoyle123/GravAD">GravAD</a></h2>
-<p>
-GravAD innovatively detects gravitational waves using Automatic Differentiation, JAX, and Ripple with IMRPhenomD for efficient template generation, optimising matched filtering to identify wave events rapidly while reducing computational demands.
-
-</p>
-<!-- Badges -->
+</details>
 
 
-![GitHub stars](https://img.shields.io/github/stars/WDoyle123/GravAD?style=social&label=Star) ![GitHub forks](https://img.shields.io/github/forks/WDoyle123/GravAD?style=social) ![GitHub issues](https://img.shields.io/github/issues/WDoyle123/GravAD)
-</td>
-
-<!-- Second Column -->
-<td valign="top" width="33%">
-<h2><a href="https://github.com/WDoyle123/StellarPhysicsHub">StellarPhysicsHub</a></h2>
-<p>StellarPhysicsHub, a Flask and SQLAlchemy-powered web app, provides detailed, interactive information on constellations and celestial bodies for astronomy enthusiasts and researchers to explore like never before. It leverages the power of StarScholar3D!</p>
-<!-- Badges -->
-
-![GitHub stars](https://img.shields.io/github/stars/WDoyle123/StellarPhysicsHub?style=social&label=Star) ![GitHub forks](https://img.shields.io/github/forks/WDoyle123/StellarPhysicsHub?style=social) ![GitHub issues](https://img.shields.io/github/issues/WDoyle123/StellarPhysicsHub)
-</td>
-
-<!-- Third Column -->
-<td valign="top" width="33%">
-<h2><a href="https://github.com/WDoyle123/PS1Palette">PS1Palette</a></h2>
-<p>PS1Palette is a Bash script designed to simplify the process of customising the command prompt (PS1) in Bash. It allows users to easily change the colour of their terminal prompt without needing to understand the complex syntax of PS1 colour codes.</p>
-<!-- Badges -->
-
-<br>
+## Projects
 
 
-![GitHub stars](https://img.shields.io/github/stars/WDoyle123/PS1Palette?style=social&label=Star) ![GitHub forks](https://img.shields.io/github/forks/WDoyle123/PS1Palette?style=social) ![GitHub issues](https://img.shields.io/github/issues/WDoyle123/PS1Palette)
-</td>
-</tr>
-
-<tr>
-<!-- First Column of Second Row -->
-<td valign="top" width="33%">
-<h2><a href="https://github.com/WDoyle123/AstroClassifierML">AstroClassifierML</a></h2>
-<p>AstroClassifierML is a machine learning project aimed at classifying space objects. It uses data from Sloan Digital Sky Survey, applying advanced machine learning techniques to classify Galaxies, Stars, and Quasars.</p>
-<!-- Badges -->
-<br>
-
-
-
-![GitHub stars](https://img.shields.io/github/stars/WDoyle123/AstroClassifierML?style=social&label=Star) ![GitHub forks](https://img.shields.io/github/forks/WDoyle123/AstroClassifierML?style=social) ![GitHub issues](https://img.shields.io/github/issues/WDoyle123/AstroClassifierML)
-
-</td>
-
-<!-- Second Column of Second Row -->
-<td valign="top" width="33%">
-<h2><a href="https://github.com/WDoyle123/PyWaveCNN">PyWaveCNN</a></h2>
-<p>PyWaveCNN utilises TensorFlow in an advanced convolutional neural network to analyse and classify gravitational wave data, enhancing understanding of waveforms through machine learning and contour plot analysis.</p>
-<!-- Badges -->
-
-![GitHub stars](https://img.shields.io/github/stars/WDoyle123/PyWaveCNN?style=social&label=Star) ![GitHub forks](https://img.shields.io/github/forks/WDoyle123/PyWaveCNN?style=social) ![GitHub issues](https://img.shields.io/github/issues/WDoyle123/PyWaveCNN)
-</td>
-
-<!-- Third Column of Second Row -->
-<td valign="top" width="33%">
-<h2><a href="https://github.com/WDoyle123/StellarSpectraML">StellarSpectraML</a></h2>
-<p>This project aims to classify stellar objects based on their spectral types using machine learning techniques. It leverages data from the Yale Bright Star Catalogue and the SIMBAD astronomical database to train a neural network model.</p>
-<!-- Badges -->
-
-![GitHub stars](https://img.shields.io/github/stars/WDoyle123/StellarSpectraML?style=social&label=Star) ![GitHub forks](https://img.shields.io/github/forks/WDoyle123/StellarSpectraML?style=social) ![GitHub issues](https://img.shields.io/github/issues/WDoyle123/StellarSpectraML)
-</td>
-</tr>
-<tr>
-<!-- First Column of Third Row -->
-<td valign="top" width="33%">
-<h2><a href="https://github.com/WDoyle123/StarScholar3D">StarScholar3D</a></h2>
-<p>SStarScholar3D, using data from the Yale Bright Star catalog, offers a dynamic 3D visualisation of stars, constellations, and asterisms, transforming equatorial to cartesian coordinates for unique celestial perspectives.</p>
-<!-- Badges -->
-
-![GitHub stars](https://img.shields.io/github/stars/WDoyle123/StarScholar3D?style=social&label=Star) ![GitHub forks](https://img.shields.io/github/forks/WDoyle123/StarScholar3D?style=social) ![GitHub issues](https://img.shields.io/github/issues/WDoyle123/StarScholar3D)
-</td>
-
-<!-- Second Column of Third Row -->
-
-
-<!-- Third Column of Third Row -->
-<td valign="top" width="33%">
-<h2><a href="https://github.com/WDoyle123/portfolioWebsite">portfolioWebsite</a></h2>
-<p>This site showcases my journey as a Physicist, Programmer, and Entrepreneur. It includes information about my academic background, achievements, projects, publications, and certifications. Frequent updates with this repo for the more I learn!</p>
-<!-- Badges -->
-
-
-![GitHub stars](https://img.shields.io/github/stars/WDoyle123/portfolioWebsite?style=social&label=Star) ![GitHub forks](https://img.shields.io/github/forks/WDoyle123/portfolioWebsite?style=social) ![GitHub issues](https://img.shields.io/github/issues/WDoyle123/portfolioWebsite)
-</td>
-
-<!-- First Column of Fourth Row -->
-<td valign="top" width="33%">
-<h2><a href="https://github.com/WDoyle123/solarSystem">solarSystem</a></h2>
-<p>SolarSystem is a web-based JavaScript simulation with p5.js, modeling a solar system with sun, planets, and moons, visually demonstrating Newtonian gravitational interactions and orbital mechanics.</p>
-<!-- Badges -->
-
-<br>
-
-
-![GitHub stars](https://img.shields.io/github/stars/WDoyle123/solarSystem?style=social&label=Star) ![GitHub forks](https://img.shields.io/github/forks/WDoyle123/solarSystem?style=social) ![GitHub issues](https://img.shields.io/github/issues/WDoyle123/solarSystem)
-</td>
-
-<!-- Second Column of Fourth Row (Empty if no project) -->
-
-
-</table>
-
-![Visitor Count](https://profile-counter.glitch.me/WDoyle123/count.svg)
-  
-</div>
+| Title | Description | Stars | Stack | Size | Updated |
+|-------|-------------|-------|------------|------|---------|
+| [GravAD](https://github.com/WDoyle123/GravAD) | <abbr title=" Gravitational Wave Analysis using Auto Differentiation with JAX ">Gravitational Wave Analysis using...</abbr> | ![Stars](https://img.shields.io/github/stars/WDoyle123/GravAD?style=social) | ![JAX](https://img.shields.io/badge/-JAX-black?style=flat-square&logo=JAX) | ![GitHub repo-size](https://img.shields.io/github/repo-size/WDoyle123/GravAD) | ![Last Commit](https://img.shields.io/github/last-commit/WDoyle123/GravAD) |
+| [StellarPhysicsHub](https://github.com/WDoyle123/StellarPhysicsHub) |  <abbr title="Flask-based web application designed for astronomy enthusiasts in Python"> Flask-based web application... | ![Stars](https://img.shields.io/github/stars/WDoyle123/StellarPhysicsHub?style=social) | ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask) | ![GitHub repo-size](https://img.shields.io/github/repo-size/WDoyle123/StellarPhysicsHub)| ![Last Commit](https://img.shields.io/github/last-commit/WDoyle123/StellarPhysicsHub) |
+| [PS1Palette](https://github.com/WDoyle123/PS1Palette) | <abbr title="Streamline Bash PS1 customisation through script automation for prompt colour coding and .bashrc integration."> Streamline Bash PS1 customisation... | ![Stars](https://img.shields.io/github/stars/WDoyle123/PS1Palette?style=social) | | ![GitHub repo-size](https://img.shields.io/github/repo-size/WDoyle123/PS1Palette)| ![Last Commit](https://img.shields.io/github/last-commit/WDoyle123/PS1Palette) |
+| [AstroClassifierML](https://github.com/WDoyle123/AstroClassifierML) | <abbr title="  Machine Learning used on SDSS Data to Classify Stars, Galaxies and Quasars">Machine Learning used on SDSS Data...</abbr> | ![Stars](https://img.shields.io/github/stars/WDoyle123/AstroClassifierML?style=social) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow) | ![GitHub repo-size](https://img.shields.io/github/repo-size/WDoyle123/AstroClassifierML) | ![Last Commit](https://img.shields.io/github/last-commit/WDoyle123/AstroClassifierML) |
+| [PyWaveCNN](https://github.com/WDoyle123/PyWaveCNN) | <abbr title="  Convolutional Neural Network for Categorising Gravitational Wave Contours"> CNN for Categorising Gravitational... </abbr> | ![Stars](https://img.shields.io/github/stars/WDoyle123/PyWaveCNN?style=social) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow) | ![GitHub repo-size](https://img.shields.io/github/repo-size/WDoyle123/PyWaveCNN) | ![Last Commit](https://img.shields.io/github/last-commit/WDoyle123/PyWaveCNN) |
+| [StellarSpectraML](https://github.com/WDoyle123/StellarSpectraML) | <abbr title="Machine learning project classifying stellar spectra using TensorFlow and astronomical datasets  ">Machine Learning Project Classifiying...</abbr> | ![Stars](https://img.shields.io/github/stars/WDoyle123/StellarSpectraML?style=social) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow) | ![GitHub repo-size](https://img.shields.io/github/repo-size/WDoyle123/StellarSpectraML) | ![Last Commit](https://img.shields.io/github/last-commit/WDoyle123/StellarSpectraML) |
+| [StarScholar3D](https://github.com/WDoyle123/StarScholar3D) | <abbr title="Dynamic 3D Visualisation of Stars Using The Yale Bright Star Catalogue in Python  ">Dynamic 3D Visualisation of Stars...</abbr> | ![Stars](https://img.shields.io/github/stars/WDoyle123/StarScholar3D?style=social) |  | ![GitHub repo-size](https://img.shields.io/github/repo-size/WDoyle123/StarScholar3D) | ![Last Commit](https://img.shields.io/github/last-commit/WDoyle123/StarScholar3D) |
+| [portfolioWebsite](https://github.com/WDoyle123/portfolioWebsite) | <abbr title="THREE.js website with animation on scroll ">THREE.js website with animation...</abbr> | ![Stars](https://img.shields.io/github/stars/WDoyle123/portfolioWebsite?style=social) | ![THREE.js](https://img.shields.io/badge/-THREE.js-black?style=flat-square&logo=THREE.js) | ![GitHub repo-size](https://img.shields.io/github/repo-size/WDoyle123/portfolioWebsite) | ![Last Commit](https://img.shields.io/github/last-commit/WDoyle123/portfolioWebsite) |
+| [solarSystem](https://github.com/WDoyle123/solarSystem) | <abbr title="a JavaScript simulation using the p5.js library to model a basic solar system ">a JavaScript Simulation using p5.js...</abbr> | ![Stars](https://img.shields.io/github/stars/WDoyle123/solarSystem?style=social) | ![p5.js](https://img.shields.io/badge/-p5.js-black?style=flat-square&logo=p5.js) | ![GitHub repo-size](https://img.shields.io/github/repo-size/WDoyle123/solarSystem) | ![Last Commit](https://img.shields.io/github/last-commit/WDoyle123/solarSystem) |
