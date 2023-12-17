@@ -49,6 +49,8 @@ My passion for technology extends to exploring various Linux distributions, incl
 
 ## Projects
 
+<div align="left">
+    
 | Projects |
 |-|
 
@@ -64,6 +66,8 @@ My passion for technology extends to exploring various Linux distributions, incl
 
 <br>
 
+<div align="left">
+    
 | Machine Learning |
 |-|
 
