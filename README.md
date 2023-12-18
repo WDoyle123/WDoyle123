@@ -54,7 +54,7 @@ My passion for technology extends to exploring various Linux distributions, incl
 | Projects |
 |-|
 
-| Title | Description | Stars&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Stack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| Title | Description | Stars&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tech&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |-------|-------------|-------|-------|
 | [GravAD](https://github.com/WDoyle123/GravAD) | Gravitational Wave Analysis using Auto Differentiation with JAX | ![Stars](https://img.shields.io/github/stars/WDoyle123/GravAD?color=%230181FF) | ![JAX](https://img.shields.io/badge/-JAX-black?style=flat-square&logo=JAX) |
 | [StellarPhysicsHub](https://github.com/WDoyle123/StellarPhysicsHub) | Flask-based web application designed for astronomy enthusiasts in Python | ![Stars](https://img.shields.io/github/stars/WDoyle123/StellarPhysicsHub?color=%230181FF) | ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask) |
