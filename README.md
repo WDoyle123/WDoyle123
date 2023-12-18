@@ -71,7 +71,7 @@ My passion for technology extends to exploring various Linux distributions, incl
 | Machine Learning |
 |-|
 
-| Title | Description | Stars&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Stack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| Title | Description | Stars&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tech&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |-------|-------------|-------|-------|
 | [AstroClassifierML](https://github.com/WDoyle123/AstroClassifierML) |  Machine Learning used on SDSS Data to Classify Stars, Galaxies and Quasars | ![Stars](https://img.shields.io/github/stars/WDoyle123/AstroClassifierML?color=%230181FF) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow) |
 | [PyWaveCNN](https://github.com/WDoyle123/PyWaveCNN) | Convolutional Neural Network for Categorising Gravitational Wave Contours | ![Stars](https://img.shields.io/github/stars/WDoyle123/PyWaveCNN?color=%230181FF) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow) | 
