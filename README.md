@@ -63,7 +63,7 @@ My passion for technology extends to exploring various Linux distributions, incl
 | [StarScholar3D](https://github.com/WDoyle123/StarScholar3D) | Dynamic 3D Visualisation of Stars Using The Yale Bright Star Catalogue in Python | ![Stars](https://img.shields.io/github/stars/WDoyle123/StarScholar3D?color=%230181FF) | 
 | [portfolioWebsite](https://github.com/WDoyle123/portfolioWebsite) |THREE.js website with animation on scroll | ![Stars](https://img.shields.io/github/stars/WDoyle123/portfolioWebsite?color=%230181FF) | ![THREE.js](https://img.shields.io/badge/-THREE.js-black?style=flat-square&logo=THREE.js) | 
 | [solarSystem](https://github.com/WDoyle123/solarSystem) |a JavaScript simulation using the p5.js library to model a basic solar system | ![Stars](https://img.shields.io/github/stars/WDoyle123/solarSystem?color=%230181FF) | ![p5.js](https://img.shields.io/badge/-p5.js-black?style=flat-square&logo=p5.js) | 
-| [FluidSim](https://github.com/WDoyle123/FluidSim) | PyGame 2D Fluid Simulation | ![Stars](https://img.shields.io/github/stars/WDoyle123/FluidSim?color=%230181FF) | ![pygame](https://img.shields.io/badge/-pygame-black?style=flat-square&logo=pygame) | 
+| [FluidSim](https://github.com/WDoyle123/FluidSim) |  PyGame Fluid Simulation using Smoothed Particle Hydrodynamics (SPH) | ![Stars](https://img.shields.io/github/stars/WDoyle123/FluidSim?color=%230181FF) | ![pygame](https://img.shields.io/badge/-pygame-black?style=flat-square&logo=pygame) | 
 | [PythonProjectInit](https://github.com/WDoyle123/PythonProjectInit) | Python Project Initialisation Automation through Shell Scripting | ![Stars](https://img.shields.io/github/stars/WDoyle123/PythonProjectInit?color=%230181FF) |
 
 <br>
