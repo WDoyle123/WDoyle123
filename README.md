@@ -51,30 +51,38 @@ My passion for technology extends to exploring various Linux distributions, incl
 
 <div align="left">
     
-| Projects |
+|Python Projects |
 |-|
 
 | Title | Description | Stars&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tech&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |-------|-------------|-------|-------|
 | [GravAD](https://github.com/WDoyle123/GravAD) | Gravitational Wave Analysis using Auto Differentiation with JAX | ![Stars](https://img.shields.io/github/stars/WDoyle123/GravAD?color=%230181FF) | ![JAX](https://img.shields.io/badge/-JAX-black?style=flat-square&logo=JAX) |
-| [StellarPhysicsHub](https://github.com/WDoyle123/StellarPhysicsHub) | Flask-based web application designed for astronomy enthusiasts in Python | ![Stars](https://img.shields.io/github/stars/WDoyle123/StellarPhysicsHub?color=%230181FF) | ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask) |
-| [PS1Palette](https://github.com/WDoyle123/PS1Palette) | Streamline Bash PS1 customisation through script automation for prompt colour coding and .bashrc integration. | ![Stars](https://img.shields.io/github/stars/WDoyle123/PS1Palette?color=%230181FF) |
-| [CBC-Simulation](https://github.com/WDoyle123/CBC-Simulation) | Simulating CBCs with a focus on GWs emission during the inspiral phase using classical mechanics | ![Stars](https://img.shields.io/github/stars/WDoyle123/CBC-Simulation?color=%230181FF) | 
+| [StellarPhysicsHub](https://github.com/WDoyle123/StellarPhysicsHub) | Flask-based Web Application Designed for Astronomy Enthusiasts in Python | ![Stars](https://img.shields.io/github/stars/WDoyle123/StellarPhysicsHub?color=%230181FF) | ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask) |
 | [StarScholar3D](https://github.com/WDoyle123/StarScholar3D) | Dynamic 3D Visualisation of Stars Using The Yale Bright Star Catalogue in Python | ![Stars](https://img.shields.io/github/stars/WDoyle123/StarScholar3D?color=%230181FF) | 
-| [portfolioWebsite](https://github.com/WDoyle123/portfolioWebsite) |THREE.js website with animation on scroll | ![Stars](https://img.shields.io/github/stars/WDoyle123/portfolioWebsite?color=%230181FF) | ![THREE.js](https://img.shields.io/badge/-THREE.js-black?style=flat-square&logo=THREE.js) | 
-| [solarSystem](https://github.com/WDoyle123/solarSystem) |a JavaScript simulation using the p5.js library to model a basic solar system | ![Stars](https://img.shields.io/github/stars/WDoyle123/solarSystem?color=%230181FF) | ![p5.js](https://img.shields.io/badge/-p5.js-black?style=flat-square&logo=p5.js) | 
+| [CBC-Simulation](https://github.com/WDoyle123/CBC-Simulation) | Simulating CBCs with a focus on GW Emission during the Inspiral Phase using Classical Mechanics | ![Stars](https://img.shields.io/github/stars/WDoyle123/CBC-Simulation?color=%230181FF) | 
 | [FluidSim](https://github.com/WDoyle123/FluidSim) |  PyGame Fluid Simulation using Smoothed Particle Hydrodynamics (SPH) | ![Stars](https://img.shields.io/github/stars/WDoyle123/FluidSim?color=%230181FF) | ![pygame](https://img.shields.io/badge/-pygame-black?style=flat-square&logo=pygame) | 
-| [PythonProjectInit](https://github.com/WDoyle123/PythonProjectInit) | Python Project Initialisation Automation through Shell Scripting | ![Stars](https://img.shields.io/github/stars/WDoyle123/PythonProjectInit?color=%230181FF) |
+| [AstroClassifierML](https://github.com/WDoyle123/AstroClassifierML) |  Machine Learning used on SDSS Data to Classify Stars, Galaxies and Quasars | ![Stars](https://img.shields.io/github/stars/WDoyle123/AstroClassifierML?color=%230181FF) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow) |
+| [PyWaveCNN](https://github.com/WDoyle123/PyWaveCNN) | Convolutional Neural Network for Categorising Gravitational Wave Contours | ![Stars](https://img.shields.io/github/stars/WDoyle123/PyWaveCNN?color=%230181FF) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow) | 
+| [StellarSpectraML](https://github.com/WDoyle123/StellarSpectraML) |Machine Learning Project Classifying Stellar Spectra using TensorFlow and Astronomical Datasets | ![Stars](https://img.shields.io/github/stars/WDoyle123/StellarSpectraML?color=%230181FF) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow) | 
 
 <br>
 
-<div align="left">
-    
-| Machine Learning |
+| Bash Scripts |
+|-|
+
+| Title | Description | Stars&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
+|-------|-------------|-------|
+| [PS1Palette](https://github.com/WDoyle123/PS1Palette) | Streamline Bash PS1 Customisation through Script Automation for Prompt Colour Coding and .bashrc Integration. | ![Stars](https://img.shields.io/github/stars/WDoyle123/PS1Palette?color=%230181FF) |
+| [PythonProjectInit](https://github.com/WDoyle123/PythonProjectInit) | Python Project Initialisation Automation through Shell Scripting | ![Stars](https://img.shields.io/github/stars/WDoyle123/PythonProjectInit?color=%230181FF) |
+|[dotfiles](https://github.com/wdoyle123/dotfiles) | My Bash Scripts & System Configurations for Arch Linux | ![Stars](https://img.shields.io/github/stars/wdoyle123/dotfiles?color=%230181FF) |
+
+
+<br>
+
+| JavaScript |
 |-|
 
 | Title | Description | Stars&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tech&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |-------|-------------|-------|-------|
-| [AstroClassifierML](https://github.com/WDoyle123/AstroClassifierML) |  Machine Learning used on SDSS Data to Classify Stars, Galaxies and Quasars | ![Stars](https://img.shields.io/github/stars/WDoyle123/AstroClassifierML?color=%230181FF) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow) |
-| [PyWaveCNN](https://github.com/WDoyle123/PyWaveCNN) | Convolutional Neural Network for Categorising Gravitational Wave Contours | ![Stars](https://img.shields.io/github/stars/WDoyle123/PyWaveCNN?color=%230181FF) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow) | 
-| [StellarSpectraML](https://github.com/WDoyle123/StellarSpectraML) |Machine learning project classifying stellar spectra using TensorFlow and astronomical datasets | ![Stars](https://img.shields.io/github/stars/WDoyle123/StellarSpectraML?color=%230181FF) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow) | 
+| [portfolioWebsite](https://github.com/WDoyle123/portfolioWebsite) |THREE.js website with animation on scroll | ![Stars](https://img.shields.io/github/stars/WDoyle123/portfolioWebsite?color=%230181FF) | ![THREE.js](https://img.shields.io/badge/-THREE.js-black?style=flat-square&logo=THREE.js) | 
+| [solarSystem](https://github.com/WDoyle123/solarSystem) |a JavaScript simulation using the p5.js library to model a basic solar system | ![Stars](https://img.shields.io/github/stars/WDoyle123/solarSystem?color=%230181FF) | ![p5.js](https://img.shields.io/badge/-p5.js-black?style=flat-square&logo=p5.js) | 
