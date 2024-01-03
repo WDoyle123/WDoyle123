@@ -75,7 +75,7 @@ My passion for technology extends to exploring various Linux distributions, incl
 | [PS1Palette](https://github.com/WDoyle123/PS1Palette) | Streamline Bash PS1 Customisation through Script Automation for Prompt Colour Coding and .bashrc Integration. | ![Stars](https://img.shields.io/github/stars/WDoyle123/PS1Palette?color=%230181FF) |
 | [PythonProjectInit](https://github.com/WDoyle123/PythonProjectInit) | Python Project Initialisation Automation through Shell Scripting | ![Stars](https://img.shields.io/github/stars/WDoyle123/PythonProjectInit?color=%230181FF) |
 | [dotfiles](https://github.com/wdoyle123/dotfiles) | My Bash Scripts & System Configurations for Arch Linux | ![Stars](https://img.shields.io/github/stars/wdoyle123/dotfiles?color=%230181FF) |
-| [nordvpn-polybar](https://github.com/WDoyle123/nordvpn_polybar) | NordVPN polybar integration using BASH script | ![Stars](https://img.shields.io/github/stars/WDoyle123/nordvpn_polybar?color=%230181FF) |
+| [nordvpn-polybar](https://github.com/WDoyle123/nordvpn-polybar) | NordVPN polybar integration using BASH script | ![Stars](https://img.shields.io/github/stars/WDoyle123/nordvpn-polybar?color=%230181FF) |
 
 
 
