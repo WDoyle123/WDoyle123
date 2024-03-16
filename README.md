@@ -65,7 +65,7 @@ My passion for technology extends to exploring various Linux distributions, incl
 | [PyWaveCNN](https://github.com/WDoyle123/PyWaveCNN) | Convolutional Neural Network for Categorising Gravitational Wave Contours | ![Stars](https://img.shields.io/github/stars/WDoyle123/PyWaveCNN?color=%230181FF) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow) | 
 | [StellarSpectraML](https://github.com/WDoyle123/StellarSpectraML) |Machine Learning Project Classifying Stellar Spectra using TensorFlow and Astronomical Datasets | ![Stars](https://img.shields.io/github/stars/WDoyle123/StellarSpectraML?color=%230181FF) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow) | 
 | [tesco-webscraper](https://github.com/WDoyle123/tesco-webscraper) | Using Selenium to Webscrape Tesco for Products, Prices and Images | ![Stars](https://img.shields.io/github/stars/WDoyle123/tesco-webscraper?color=%230181FF) | ![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=Selenium) |
-| [TUITS](https://github.com/WDoyle123/TUITS) | Terminal User Interface Time Sheet | ![Stars](https://img.shields.io/github/stars/WDoyle123/TUITS?color=%230181FF) | ![gpt3.5](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=openai) |
+| [TUITS](https://github.com/WDoyle123/TUITS) | Terminal User Interface Time Sheet | ![Stars](https://img.shields.io/github/stars/WDoyle123/TUITS?color=%230181FF) | ![gpt3.5](https://img.shields.io/badge/-gpt3.5-black?style=flat-square&logo=openai) |
 <br>
 
 | Bash Scripts |
