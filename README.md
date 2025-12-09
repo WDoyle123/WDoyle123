@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Hi, I'm William E. Doyle
-### Python Progammer & Aspiring Physicist
+### Linux + Vim + Python + Docker + Kubernetes
 
 <a href="https://github.com/WDoyle123">
     <img src="https://github-stats-alpha.vercel.app/api?username=WDoyle123&cc=22272e&tc=0181FF&ic=fff&bc=0181FF">
@@ -11,10 +11,6 @@
 
 <a href="https://www.williamdoyle.co.uk">
     <img src="https://img.shields.io/badge/Website-www.williamdoyle.co.uk-0181FF?style=flat">
-</a>  
-
-<a href="https://fuchsia-brandea-15.tiiny.site/">
-    <img src="https://img.shields.io/badge/PDF-CV-0181FF?">
 </a>  
 
 <a href="https://www.linkedin.com/in/william-doyle-489750239/">
@@ -37,14 +33,9 @@
 <details>
 <summary><b>About Me</b></summary>
 <p>
-I am an aspiring physicist with a Master's in Physics (MPhys) from the University of Portsmouth, where I developed a strong foundation in theoretical and applied physics. My academic journey has been marked by numerous projects where I utilised my analytical and problem-solving skills, often employing computational methods.
-</p>
-<p>
-On GitHub, I showcase my proficiency in Python programming, which has been integral to my data analysis, simulation development, and problem-solving in physics. My repositories reflect my dedication to applying programming in scientific contexts, demonstrating both my technical skills and my enthusiasm for computational physics.
-</p>
-<p>
-My passion for technology extends to exploring various Linux distributions, including Arch, Void, and Ubuntu. This interest has led me to tinker with both software and hardware, optimising performance and customising user experiences. Through these experiences, I have grown a deep appreciation for the open-source community and its collaborative spirit. My GitHub repositories also mirror this ethos, as I maintain my repositories to be open-source.
-</p>
+I earned my Master's degree in Physics, and along the way discovered that programming was what I truly enjoyed. I've always liked taking computers apart, physically and digitally, and Linux has been part of that curiosity since my early teens, back when I escaped a corrupted Windows update by switching to Ubuntu. 
+
+Years later, I returned to Linux during university and quickly developed a strong dislike for nano, which pushed me into Vim. My approach to the terminal has been heavily influenced by <a href="https://www.youtube.com/@LukeSmithxyz">Luke Smith</a>, especially in how I use Vim, tiling window managers, and a keyboard-centric workflow.</p>
 </details>
 
 ## Projects
@@ -68,6 +59,7 @@ My passion for technology extends to exploring various Linux distributions, incl
 | [TUITS](https://github.com/WDoyle123/TUITS) | Terminal User Interface Time Sheet - with AI Summary | ![Stars](https://img.shields.io/github/stars/WDoyle123/TUITS?color=%230181FF) | ![gpt3.5](https://img.shields.io/badge/-gpt3.5-black?style=flat-square&logo=openai) |
 | [writeme.md](https://github.com/WDoyle123/writeme.md) | AI-generated README.md files using Autogen, Kubernetes, Docker, MongoDB, RabbitMQ, and Sveltekit.| ![Stars](https://img.shields.io/github/stars/WDoyle123/writeme.md?color=%230181FF) | ![autogen](https://img.shields.io/badge/-black?style=flat-square&logo=openai) ![k8s](https://img.shields.io/badge/-black?style=flat-square&logo=kubernetes) ![docker](https://img.shields.io/badge/-black?style=flat-square&logo=docker) ![mongodb](https://img.shields.io/badge/-black?style=flat-square&logo=mongodb) ![rabbitmq](https://img.shields.io/badge/-black?style=flat-square&logo=rabbitmq) ![svelte](https://img.shields.io/badge/-black?style=flat-square&logo=svelte) |
 | [learn_FastAPI](https://github.com/WDoyle123/learn_FastAPI) | My Learning Journey of FastAPI | ![Stars](https://img.shields.io/github/stars/WDoyle123/learn_FastAPI?color=%230181FF) | ![fastapi](https://img.shields.io/badge/-black?style=flat-square&logo=fastapi) ![postgresql](https://img.shields.io/badge/-black?style=flat-square&logo=postgresql) |
+| [search-api](https://github.com/WDoyle123/search-api) | CI/CD pipeline for FastAPI Deployment | ![Stars](https://img.shields.io/github/stars/WDoyle123/search-api?color=%230181FF) | ![fastapi](https://img.shields.io/badge/-black?style=flat-square&logo=fastapi) ![docker](https://img.shields.io/badge/-black?style=flat-square&logo=docker) ![kubernetes](https://img.shields.io/badge/-black?style=flat-square&logo=kubernetes) ![postgresql](https://img.shields.io/badge/-black?style=flat-square&logo=postgresql) |
 <br>
 
 | Bash Scripts |
@@ -93,3 +85,5 @@ My passion for technology extends to exploring various Linux distributions, incl
 | [solarSystem](https://github.com/WDoyle123/solarSystem) |a JavaScript simulation using the p5.js library to model a basic solar system | ![Stars](https://img.shields.io/github/stars/WDoyle123/solarSystem?color=%230181FF) | ![p5.js](https://img.shields.io/badge/-p5.js-black?style=flat-square&logo=p5.js) | 
 | [TESCOdle](https://github.com/WDoyle123/TESCOdle) | A Wordle-Style Tesco Product Pricing Game | ![Stars](https://img.shields.io/github/stars/WDoyle123/TESCOdle?color=%230181FF) | ![Javascript](https://img.shields.io/badge/-javascript-black?style=flat-square&logo=Javascript) |
 | [jdp-website](https://github.com/WDoyle123/jdp-website) | A Simple Modern Website for an Accountancy Firm | ![Stars](https://img.shields.io/github/stars/WDoyle123/jdp-website?color=%230181FF) | ![Javascript](https://img.shields.io/badge/-javascript-black?style=flat-square&logo=Javascript) |
+| [bradleysbathrooms](https://github.com/WDoyle123/bradleysbathrooms) | React Website for Bathroom Showroom | ![Stars](https://img.shields.io/github/stars/WDoyle123/bradleysbathrooms?color=%230181FF) | ![react](https://img.shields.io/badge/-black?style=flat-square&logo=react) |
+
