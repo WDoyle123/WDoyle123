@@ -88,3 +88,9 @@ Years later, I returned to Linux during university and quickly developed a stron
 | [jdp-website](https://github.com/WDoyle123/jdp-website) | A Simple Modern Website for an Accountancy Firm | ![Stars](https://img.shields.io/github/stars/WDoyle123/jdp-website?color=%230181FF) | ![Javascript](https://img.shields.io/badge/-javascript-black?style=flat-square&logo=Javascript) |
 | [bradleysbathrooms](https://github.com/WDoyle123/bradleysbathrooms) | React Website for Bathroom Showroom | ![Stars](https://img.shields.io/github/stars/WDoyle123/bradleysbathrooms?color=%230181FF) | ![react](https://img.shields.io/badge/-black?style=flat-square&logo=react) |
 
+| Go |
+|-|
+
+| Title | Description | Stars&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tech&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|-------|-------------|-------|-------|
+| [go-search-api](https://github.com/WDoyle123/go-search-api) | Simple API written in go using stdlib | ![Stars](https://img.shields.io/github/stars/WDoyle123/go-search-api?color=%230181FF) | | 
